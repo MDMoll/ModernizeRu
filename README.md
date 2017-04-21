@@ -1,7 +1,7 @@
 # ModernizeRu
 This python script (crudely!) updates Petrine Russian text (1708-1917) to use contemporary orthography (1918-present).
 
-At its most basic, this replaces Ѳѳ, Іі, Ѣѣ, Ѵѵ with Фф, Ее and Ии for both Ѵ and І, while removing final hard signs (ъ) in words ending with consonants.
+At its most basic, this replaces Ѳѳ, Іі, Ѣѣ, Ѵѵ with Фф, Ее and Ии for both Ѵ and І, while removing final hard signs (ъ).
 
 Additionally, prefixes ending in з preceeding voiceless consonants have been changed to с.
 Suffixes related to adjectives in singular genitive as well as nominative plural have also been updated.
