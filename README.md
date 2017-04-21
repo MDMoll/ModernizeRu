@@ -11,4 +11,4 @@ Others, however, such as сей (an archaic form of этот) and its declension
 
 Edge cases, such as an overlap in feminine nominative plural adjectives and that of feminine nominative singular nouns has not yet been addressed.
 
-In other words, make sure to compare the output with the original text and its potential pitfalls. Otherwise, you may end up replacing, e.g., the Ея river in Krasnodar Krai with the feminine genitive singular "ее" and not realize it.
+In other words, be aware of the potential pitfalls within your text. Otherwise, you may end up replacing, e.g., the Ея river in Krasnodar Krai with the feminine genitive singular ее and not realize it.
