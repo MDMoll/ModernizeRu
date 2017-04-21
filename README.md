@@ -1,5 +1,5 @@
 # ModernizeRu
-This python script (crudely!) updates Petrine Russian text (1708-1917) to use contemporary orthography (1918-present).
+This python script (crudely!) updates Petrine Russian text (1708-1917) to use contemporary orthography (1918-).
 
 At its most basic, this replaces Ѳѳ, Іі, Ѣѣ, Ѵѵ with Фф, Ее and Ии for both Ѵ and І, while removing final hard signs (ъ).
 
